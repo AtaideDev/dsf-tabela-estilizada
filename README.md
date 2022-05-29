@@ -1,6 +1,6 @@
 # Desafio - Tabela Estilizada 📌
 
-Quest realizada abordando conteúdos de HTML e CSS básicos
+Quest realizada abordando conteúdos de HTML e CSS básicos.
 
 
 # Preview
