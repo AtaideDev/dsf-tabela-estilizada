@@ -1,0 +1,23 @@
+.titulo {
+    font-size: 32px;
+}
+
+.fundo-tabela {
+    color: white;
+    font-size: 26px;
+}
+
+.moda {
+    background-color: #BB86FC;
+    padding: 8px;
+}
+
+.casa {
+    padding: 8px;
+    background-color: #00C4B4;
+}
+
+td {
+    padding: 8px;
+    background-color: #424250;
+}
